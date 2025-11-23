@@ -1,4 +1,4 @@
-# RandomizedEverything_MC
+# RandomizedEverything
 A randomizer for Minecraft
 
 ## Tutorial
